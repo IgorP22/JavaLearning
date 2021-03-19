@@ -1,4 +1,4 @@
-public class DrumKit {
+public class P073_DrumKit {
     boolean topHat = true;
     boolean snare = true;
 
