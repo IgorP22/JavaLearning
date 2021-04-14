@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="250ea358-4489-4d3a-8885-32f70d3d0c2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SeaBattle_Final/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeaBattle_Final/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeaBattle_Final/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeaBattle_Final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeaBattle_Final/SeaBattle_Final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeaBattle_Final/src/DotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeaBattle_Final/src/DotComBust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeaBattle_Final/src/MainFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeaBattle_Gl_5_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DotComBust.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleDotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/P149_MultiFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="G:\JavaLearning\Head_First\SeaBattle_Gl_5_6\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pygkhVH35w29EU0N3eusSdjjFD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SeaBattle_Gl_5_6" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="250ea358-4489-4d3a-8885-32f70d3d0c2f" name="Default Changelist" comment="" />
+      <created>1616160888117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616160888117</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1184" height="303" key="GridCell.Tab.0.bottom" timestamp="1616512729525">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state width="1184" height="303" key="GridCell.Tab.0.bottom/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616512729525" />
+    <state width="1184" height="303" key="GridCell.Tab.0.center" timestamp="1616512729525">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state width="1184" height="303" key="GridCell.Tab.0.center/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616512729525" />
+    <state width="1184" height="303" key="GridCell.Tab.0.left" timestamp="1616512729525">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state width="1184" height="303" key="GridCell.Tab.0.left/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616512729525" />
+    <state width="1184" height="303" key="GridCell.Tab.0.right" timestamp="1616512729525">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state width="1184" height="303" key="GridCell.Tab.0.right/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616512729525" />
+    <state x="485" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1616504722804">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state x="485" y="366" key="com.intellij.ide.util.TipDialog/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616504722804" />
+    <state x="51" y="420" key="new project wizard" timestamp="1616512419574">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state x="51" y="420" key="new project wizard/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616512419574" />
+    <state x="295" y="536" key="run.anything.popup" timestamp="1616510521425">
+      <screen x="0" y="0" width="2560" height="1560" />
+    </state>
+    <state x="295" y="536" key="run.anything.popup/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616510521425" />
+  </component>
+</project>
