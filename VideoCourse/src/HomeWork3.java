@@ -1,5 +1,11 @@
 public class HomeWork3 {
 
+    /*
+     Домашнее задание.
+     Урок 3 Арифметические и логические операции. Операции сравнения и присваивания.
+     */
+
+
     public static void main(String[] args) {
         int i1 = 5;
         int i2 = 11;
