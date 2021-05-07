@@ -1,0 +1,1389 @@
+Index: Test/.idea/misc.xml
+===================================================================
+diff --git a/Test/.idea/misc.xml b/Test/.idea/misc.xml
+new file mode 100644
+--- /dev/null	
++++ b/Test/.idea/misc.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"e61d4dc3-7357-4f18-944b-825535142327\" name=\"Default Changelist\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1Xcv5bOv63ir85LGUOoUD35acuT\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showExcludedFiles\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"e61d4dc3-7357-4f18-944b-825535142327\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1581358015264</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1581358015264</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"1476\" y=\"597\" key=\"FileChooserDialogImpl\" timestamp=\"1581358053893\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1560\" />\r\n    </state>\r\n    <state x=\"1476\" y=\"597\" key=\"FileChooserDialogImpl/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560\" timestamp=\"1581358053893\" />\r\n    <state x=\"1392\" y=\"679\" key=\"com.intellij.ide.util.TipDialog\" timestamp=\"1581358026664\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1560\" />\r\n    </state>\r\n    <state x=\"1392\" y=\"679\" key=\"com.intellij.ide.util.TipDialog/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560\" timestamp=\"1581358026664\" />\r\n    <state x=\"1079\" y=\"476\" key=\"new project wizard\" timestamp=\"1581358058191\">\r\n      <screen x=\"0\" y=\"0\" width=\"2560\" height=\"1560\" />\r\n    </state>\r\n    <state x=\"1079\" y=\"476\" key=\"new project wizard/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560\" timestamp=\"1581358058191\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/../.idea/workspace.xml b/../.idea/workspace.xml
+--- a/../.idea/workspace.xml	
++++ b/../.idea/workspace.xml	
+@@ -1,7 +1,38 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="e61d4dc3-7357-4f18-944b-825535142327" name="Default Changelist" comment="" />
++    <list default="true" id="e61d4dc3-7357-4f18-944b-825535142327" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/.idea/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/SeaBattle_Final.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/src/DotCom.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/src/DotComBust.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/src/GameHelper.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/src/MainFinal.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Final/src/Test.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/.idea/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/.idea/description.html" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/.idea/encodings.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/.idea/project-template.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/SeaBattle_Gl_5_6.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/src/DotCom.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/src/GameHelper.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/src/Main.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/SeaBattle_Gl_5_6/src/SimpleDotCom.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/Test/.idea/.gitignore" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/Test/.idea/misc.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/Test/.idea/modules.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/Test/.idea/vcs.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/Test/Test.iml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/Test/src/Test.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Head_First/src/P149_MultiFor.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -18,6 +49,10 @@
+   </component>
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/Head_First/Test" />
++    <property name="project.structure.last.edited" value="Project" />
++    <property name="project.structure.proportion" value="0.0" />
++    <property name="project.structure.side.proportion" value="0.0" />
+   </component>
+   <component name="SvnConfiguration">
+     <configuration />
+@@ -33,17 +68,25 @@
+     <servers />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="1476" y="597" key="FileChooserDialogImpl" timestamp="1581358053893">
++    <state x="1167" y="849" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1616155056829">
++      <screen x="0" y="0" width="2560" height="1560" />
++    </state>
++    <state x="1167" y="849" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616155056829" />
++    <state x="1099" y="715" key="FileChooserDialogImpl" timestamp="1617022057151">
++      <screen x="0" y="0" width="2560" height="1560" />
++    </state>
++    <state x="1099" y="715" key="FileChooserDialogImpl/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1617022057151" />
++    <state x="799" y="535" key="SettingsEditor" timestamp="1616155111644">
+       <screen x="0" y="0" width="2560" height="1560" />
+     </state>
+-    <state x="1476" y="597" key="FileChooserDialogImpl/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1581358053893" />
+-    <state x="1392" y="679" key="com.intellij.ide.util.TipDialog" timestamp="1581358026664">
++    <state x="799" y="535" key="SettingsEditor/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616155111644" />
++    <state x="1014" y="784" key="com.intellij.ide.util.TipDialog" timestamp="1617022022676">
+       <screen x="0" y="0" width="2560" height="1560" />
+     </state>
+-    <state x="1392" y="679" key="com.intellij.ide.util.TipDialog/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1581358026664" />
+-    <state x="1079" y="476" key="new project wizard" timestamp="1581358058191">
++    <state x="1014" y="784" key="com.intellij.ide.util.TipDialog/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1617022022676" />
++    <state x="701" y="581" key="new project wizard" timestamp="1616155088612">
+       <screen x="0" y="0" width="2560" height="1560" />
+     </state>
+-    <state x="1079" y="476" key="new project wizard/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1581358058191" />
++    <state x="701" y="581" key="new project wizard/0.0.2560.1560/-1680.0.1680.1010@0.0.2560.1560" timestamp="1616155088612" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: SeaBattle_Final/.idea/.gitignore
+===================================================================
+diff --git a/SeaBattle_Final/.idea/.gitignore b/SeaBattle_Final/.idea/.gitignore
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/.idea/.gitignore	
+@@ -0,0 +1,2 @@
++# Default ignored files
++/workspace.xml
+\ No newline at end of file
+Index: Test/Test.iml
+===================================================================
+diff --git a/Test/Test.iml b/Test/Test.iml
+new file mode 100644
+--- /dev/null	
++++ b/Test/Test.iml	
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: SeaBattle_Final/.idea/misc.xml
+===================================================================
+diff --git a/SeaBattle_Final/.idea/misc.xml b/SeaBattle_Final/.idea/misc.xml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/.idea/misc.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: SeaBattle_Final/.idea/modules.xml
+===================================================================
+diff --git a/SeaBattle_Final/.idea/modules.xml b/SeaBattle_Final/.idea/modules.xml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/.idea/modules.xml	
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/SeaBattle_Final.iml" filepath="$PROJECT_DIR$/SeaBattle_Final.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: Test/src/Test.java
+===================================================================
+diff --git a/Test/src/Test.java b/Test/src/Test.java
+new file mode 100644
+--- /dev/null	
++++ b/Test/src/Test.java	
+@@ -0,0 +1,194 @@
++// для тестирования отдельных блоков и алгоритмов программ
++
++
++import java.util.ArrayList;
++
++public class Test {
++
++
++    public static void main(String[] args) {
++        System.out.println("Test");
++
++        String alphabet = "abcdefg";  // возможные кооринаты по столбцам
++        int gridLength = 7;  // возможные кооринаты по строкам
++        //int gridSize = 49; // размер сетки
++        //int[] grid = new int[gridSize]; // массив координат сетки
++        int shipPozitionX, shipPozitionY;
++        String[] location = new String[3];
++        String coordinates;
++        //ArrayList<String> deadZone = new ArrayList<String>();
++        ArrayList<String> impossibleZone = new ArrayList<>(); // все домустимые координаты
++
++        ArrayList <String> alphaCells = new ArrayList<String>(); // для связи с основной программой
++        // нужно заменить location на alphaCells
++
++
++        //int numberOfShips = 3;
++        boolean flag, shipOutOfDeadZone;
++
++        // заполняем массив possibleZone всеми допустимыми координатами
++
++        // лишняя часть, лучше заменяем на массив недопустиміх координат, т.к.
++        // нет необходимости его предварительно заполнять.
++
++        /*
++        for (int i=0; i<gridLength; i++) {
++            for (int j = 0; j < gridLength; j++) {
++                coordinates = (Character.toString(alphabet.charAt(i)) + String.valueOf(j));
++                possibleZone.add(coordinates);
++                System.out.print(coordinates);
++            }
++            System.out.println();
++        }*/
++            // получаем 3 координаты вертикально или горизонтально расположенного корабля
++            // и записываем из в массив locaton
++
++
++            //System.out.println(randomNum);
++        // єтот цикл при переходе в основную программу будет не нужен
++        for (int i = 1; i<=3; i++) {  // цикл для нахождения координт 3х кораблей
++            alphaCells.clear();
++
++
++
++            flag = true;
++            while (flag) {
++                int randomNum = (int) (Math.random() * 2); // выбор вертикально или горизонтально, 0 - вертикаль, 1 - горизонталь
++                if (randomNum == 1) {
++                    System.out.println("verticalno");
++                    shipPozitionX = (int) (Math.random() * 5);
++                    shipPozitionY = (int) (Math.random() * 7);
++                    String letter = Character.toString(alphabet.charAt(shipPozitionY));
++                    //System.out.println(letter);
++                    // String [] location = {letter+String.valueOf(shipPozitionХ),letter+String.valueOf(shipPozitionХ+1),letter+String.valueOf(shipPozitionХ+2)};
++
++                    for (int z = 0; z < 3; z++) {
++                        alphaCells.add(letter + String.valueOf(shipPozitionX + z));
++                        System.out.print(alphaCells);
++                        // deadZone.add(location[z]);
++                    }
++
++                } else {
++                    System.out.println("gorizontalno");
++                    shipPozitionX = (int) (Math.random() * 7);
++                    shipPozitionY = (int) (Math.random() * 5);
++
++                    //System.out.println(letter);
++                    // String [] location = {letter+String.valueOf(shipPozitionХ),letter+String.valueOf(shipPozitionХ+1),letter+String.valueOf(shipPozitionХ+2)};
++
++                    for (int z = 0; z < 3; z++) {
++                        String letter = Character.toString(alphabet.charAt(shipPozitionY + z));
++                        alphaCells.add(letter + String.valueOf(shipPozitionX));
++
++                        System.out.print(alphaCells);
++                        // deadZone.add(location[z]);
++                    }
++                }
++
++                    // проверка, входят ли координаты кораблика координаты, занятые другим корабликом
++                    // если да, то определяем координаты заново
++                shipOutOfDeadZone=true;  // по умолчанию, координаты корабля уникальны
++
++                    // цикл проверки уникальности координат
++
++                    for (String z : alphaCells) {
++                        if (impossibleZone.contains(z)) {
++                            shipOutOfDeadZone = false; // если координаты не уникальны
++                            alphaCells.clear();
++                            System.out.println("zzz"+alphaCells);
++                            break;
++                        }
++                    }
++
++                    // при уникальности координал корабля, добавляем их в массив
++                    if (shipOutOfDeadZone) {
++
++                        /* поменяли проверку, пока убрано
++                        for (int z = 0; z < location.length; z++) {
++                            deadZone.add(location[z]);
++                        }*/
++
++                        // необходимо определить в мертвую зону еще зону вокруг кораблика
++                        // чтобы не было касания корабликами друг друга
++                        int topX,topY, bottomX, bottomY; // переменные для определения границ мертвой зоны
++
++                        // проверка выхода за верхнюю границу поля по хоординате Х
++                        // не зависит от горизонтальности или вертикальности корабля
++                        if (shipPozitionX == 0) {
++                            topX = 0; } else {
++                            topX = shipPozitionX -1;
++                        }
++                        // проверка выхода за левую границу поля по хоординате Y
++                        // не зависит от горизонтальности или вертикальности корабля
++                        if (shipPozitionY == 0) {
++                            topY = 0; } else {
++                            topY = shipPozitionY -1;
++                        }
++
++                        // определение координат второго угла мертвой зонв
++                        if (randomNum==1) {
++                            bottomX = shipPozitionX + 3;
++                            bottomY = shipPozitionY + 1;
++                        } else {
++                            bottomX = shipPozitionX + 1;
++                            bottomY = shipPozitionY + 3;
++                        }
++
++                        // проверка выхода за правую и нижнюю границы
++                        if (bottomX > 6) {
++                            bottomX = 6;
++                        }
++
++                        if (bottomY > 6) {
++                            bottomY = 6;
++                        }
++
++                        System.out.println ("   " +topX+" "+ topY+" "+ bottomX+" "+ bottomY);
++
++                        // из списка допустимых координат, убираем все координаты, которые становятся мертвой зоной для след. корабля.
++
++                        for (int x = topX; x<=bottomX; x++) {
++                            for (int y = topY; y <= bottomY; y++) {
++                                // System.out.print(Character.toString(alphabet.charAt(y)) + String.valueOf(x));
++                                impossibleZone.add(Character.toString(alphabet.charAt(y)) + String.valueOf(x));
++                            }
++                            System.out.println();
++                        }
++
++
++
++
++
++
++
++                        flag = false; // флаг для выхода из цикла while
++                    }
++
++
++            } // конец цикла while
++
++
++
++
++        }  // конец цикла для нахождения координт 3х кораблей
++
++
++
++
++
++
++
++        /*
++        System.out.println();
++        for (String r1 : deadZone) {
++            System.out.println(r1);
++        }*/
++        System.out.println();
++        for (String r1 : impossibleZone) {
++            System.out.println(r1);
++        }
++
++
++
++    }
++}
+Index: SeaBattle_Final/.idea/vcs.xml
+===================================================================
+diff --git a/SeaBattle_Final/.idea/vcs.xml b/SeaBattle_Final/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/.idea/vcs.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: SeaBattle_Final/SeaBattle_Final.iml
+===================================================================
+diff --git a/SeaBattle_Final/SeaBattle_Final.iml b/SeaBattle_Final/SeaBattle_Final.iml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/SeaBattle_Final.iml	
+@@ -0,0 +1,11 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: SeaBattle_Final/src/DotCom.java
+===================================================================
+diff --git a/SeaBattle_Final/src/DotCom.java b/SeaBattle_Final/src/DotCom.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/src/DotCom.java	
+@@ -0,0 +1,35 @@
++import java.util.ArrayList;
++
++public class DotCom {
++    private ArrayList<String> locationCells;
++    private String name;  // имя для последней версии игры
++
++    public void setLocationCells (ArrayList<String> locs) {
++        locationCells = locs;
++    }
++
++    // добавляем сеттер для имени в последнюю версию
++    public void setName (String n) {
++        name = n;
++    }
++
++    public String checkYourself (String userInput) {
++        String result = "Мимо";
++        int index = locationCells.indexOf(userInput);
++        if (index >= 0) {
++            locationCells.remove(index);
++
++
++            if (locationCells.isEmpty()) {
++                result = "Потопил";
++                System.out.println("Потоплен " + name);  // Вывод для версии финал
++            } else {
++                result = "Попал";
++            }
++        }
++
++        // System.out.println(result); Вывод результата для неполной версии
++        return result;
++
++    }
++}
+Index: SeaBattle_Final/src/DotComBust.java
+===================================================================
+diff --git a/SeaBattle_Final/src/DotComBust.java b/SeaBattle_Final/src/DotComBust.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/src/DotComBust.java	
+@@ -0,0 +1,112 @@
++import java.util.ArrayList;
++
++public class DotComBust {
++    private GameHelper helper = new GameHelper();
++    private ArrayList<DotCom> dotComsList = new ArrayList<DotCom>();  // массив объектов (корабли)
++    private int numOfGuess = 0; // счетчик ходов игрока
++    private ArrayList<String> possibleZone = new ArrayList<>(); // все недопустимые координаты
++
++
++
++
++    // заполнение массива всеми возможными координатами для проверки правильности ввода.
++    public void setZone () {
++        String alphabet = "abcdefg";
++        String coordinates;
++        for (int i=0; i<7; i++) {
++            for (int j = 0; j < 7; j++) {
++                coordinates = (Character.toString(alphabet.charAt(i)) + String.valueOf(j));
++                possibleZone.add(coordinates);
++                System.out.print(coordinates);
++            }
++            System.out.println();
++        }
++
++    }
++
++
++    private void setUpGame() {
++        //создаем корабли
++        DotCom one = new DotCom();
++        DotCom two = new DotCom();
++        DotCom three = new DotCom();
++        //задаем имена кораблей
++        one.setName("Ship #1");
++        two.setName("Ship #2");
++        three.setName("Ship #3");
++        //добавляем их в массив кораблей
++        dotComsList.add(one);
++        dotComsList.add(two);
++        dotComsList.add(three);
++
++        //создаем список всех допустимых координат
++        setZone();
++
++        // пока не доконца понятно, просто набрано из книги
++
++        for (DotCom dotComToSet : dotComsList) {
++            ArrayList<String> newLocation = helper.placeDotCom(3);
++            dotComToSet.setLocationCells(newLocation);
++        }
++
++
++    }
++
++    private void startPlaying () {
++        // пока массив не пустой, получаем ход пользователя и проверяем на попадание
++        while (!dotComsList.isEmpty()) {
++            String userGuess = helper.getUserInput("Сделайте ход (допустимые координаты а0....g6)");
++
++            checkUserGuess (userGuess);
++        }
++
++        // окончание игры
++        finishGame();
++
++    }
++
++    private void checkUserGuess(String userGuess) {
++        numOfGuess++; // увеличиваем число ходов пользователя 1
++        String result = "Мимо"; // присваиваем результату хода значение по умолчанию
++
++        // перебираем все координаты кораблей и в случае попадания, меняем заначение result
++
++        // также добавлена проверка ввода только допустимых координат
++
++        if (possibleZone.contains(userGuess)) {
++            for (DotCom dotComToTest : dotComsList) {
++                result = dotComToTest.checkYourself(userGuess);
++                // если попали, просто выходим из цикла
++                if (result.equals("Попал")) {
++                    break;
++                }
++                // если потопили кораблик, удаляем его их массива и также на выход
++                if (result.equals("Потопил")) {
++                    dotComsList.remove(dotComToTest);
++                    break;
++                }
++            }
++            System.out.println(result);
++        } else {
++            System.out.println("Координата вне диапазона, попытка не защитана, повторите ввод");
++            System.out.println("Допустимый диапазон координат а0....g6");
++            numOfGuess--;
++        }
++
++
++
++
++
++    }
++
++    private void finishGame () {
++        System.out.println("Вы потопили все корабли за " + numOfGuess + " попыток");
++    }
++
++    public static void main(String[] args) {
++        DotComBust game = new DotComBust ();  // Создание игрового объекта
++        game.setUpGame();  //Подготовка игры
++        game.startPlaying();  //Начало игры
++    }
++
++}
+Index: Test/.idea/vcs.xml
+===================================================================
+diff --git a/Test/.idea/vcs.xml b/Test/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	
++++ b/Test/.idea/vcs.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: SeaBattle_Final/src/GameHelper.java
+===================================================================
+diff --git a/SeaBattle_Final/src/GameHelper.java b/SeaBattle_Final/src/GameHelper.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/src/GameHelper.java	
+@@ -0,0 +1,254 @@
++import java.io.*;
++import java.util.*;
++
++public class GameHelper {
++
++    private static final String alphabet = "abcdefg";  // возможные кооринаты по столбцам
++    private int gridLength = 7;  // возможные кооринаты по строкам
++    int gridSize = 49; // размер сетки
++    private  int [] grid = new int [gridSize]; // массив координат сетки
++    private int comCount = 0;
++
++    //определяем массив тут, т.к. необходимо, чтобы он не обнулялся при каждом вызове placeDotCom
++    private ArrayList<String> impossibleZone = new ArrayList<>(); // все недопустимые координаты
++
++    private boolean flag, shipOutOfDeadZone;
++
++/*
++    // заполнение массива всеми возможными координатами.
++    public void setZone () {
++        String coordinates;
++        for (int i=0; i<gridLength; i++) {
++            for (int j = 0; j < gridLength; j++) {
++                coordinates = (Character.toString(alphabet.charAt(i)) + String.valueOf(j));
++                possibleZone.add(coordinates);
++                System.out.print(coordinates);
++            }
++            System.out.println();
++        }
++
++    }*/
++
++
++
++    public String getUserInput (String prompt) {
++        String inputLine = null;
++        System.out.println(prompt + " ");
++        flag = true;
++
++
++            try {
++                BufferedReader is = new BufferedReader(new InputStreamReader(System.in));
++                inputLine = is.readLine();
++                if (inputLine.length() == 0) return null;
++            } catch (IOException e) {
++                System.out.println("IOExeption: " + e);
++            }
++
++            return inputLine.toLowerCase();   // Добавлен перевод введенной строки в нижний регистр
++            /*
++
++            if (possibleZone.contains(inputLine)) {
++                return inputLine.toLowerCase();   // Добавлен перевод введенной строки в нижний регистр
++                flag = false;
++            } else  {
++                System.out.println("Координата " + inputLine+" вне диапазона, повторите ввод.....");
++
++            }*/
++
++    }
++
++
++
++
++
++
++    public ArrayList<String> placeDotCom (int comSize) {
++        ArrayList <String> alphaCells = new ArrayList<String>();
++        //String [] alphacoords = new String[comSize];   //не нужен, не мспользуется
++        //String temp = null;
++        //int [] coords = new int [comSize];
++        //int attempts = 0;
++        //oolean sucsess = false;
++        //int location = 0;
++        int shipPozitionX, shipPozitionY;
++
++        /* В данном варианте программы недоработка, корабли в сетке
++        могут касаться друг друга, не предусмотрена мертвая зона вокруг корабля
++        вариант с мертвой зоной пока в блоке Test, будет ниже коментария
++        опять проблемы с подгонкой типов........
++
++        comCount++;
++        int incr = 1;
++        if ((comCount%2)==1) {
++            incr = gridLength;
++        }
++
++        while (!sucsess & attempts ++ < 200) {
++            location = (int) (Math.random() * gridSize);
++            int x = 0;
++            sucsess = true;
++
++            while (sucsess && x < comSize) {
++                if (grid[location] == 0) {
++                    coords[x++] = location;
++                    location += incr;
++                    if (location >= gridSize) {
++                        sucsess = false;
++                    }
++                    if (x > 0 && (location % gridLength == 0)) {
++                        sucsess = false;
++                    }
++                }  else {
++                    sucsess = false;
++                }
++            }
++        }
++
++        int x = 0;
++        int row = 0;
++        int column = 0;
++
++
++
++
++        while (x < comSize) {
++            grid[coords[x]] = 1;
++            row = (int) (coords[x] / gridLength);
++            column = coords[x] % gridLength;
++            temp = String.valueOf(alphabet.charAt(column));
++
++            alphaCells.add(temp.concat(Integer.toString(row)));
++            x++;
++            System.out.print("coord"+x+"="+alphaCells);
++        }
++        */
++
++
++        /*
++        Мой вариант с учетом мертвой зоны вокруг каждого корабля
++         */
++
++        flag = true;
++        while (flag) {
++            int randomNum = (int) (Math.random() * 2); // выбор вертикально или горизонтально, 0 - вертикаль, 1 - горизонталь
++            if (randomNum == 1) {
++                //System.out.println("verticalno");
++                shipPozitionX = (int) (Math.random() * 5);
++                shipPozitionY = (int) (Math.random() * 7);
++                String letter = Character.toString(alphabet.charAt(shipPozitionY));
++                //System.out.println(letter);
++                // String [] location = {letter+String.valueOf(shipPozitionХ),letter+String.valueOf(shipPozitionХ+1),letter+String.valueOf(shipPozitionХ+2)};
++
++                for (int z = 0; z < 3; z++) {
++                    alphaCells.add(letter + String.valueOf(shipPozitionX + z));
++                    //System.out.print(alphaCells);
++                    // deadZone.add(location[z]);
++                }
++
++            } else {
++                //System.out.println("gorizontalno");
++                shipPozitionX = (int) (Math.random() * 7);
++                shipPozitionY = (int) (Math.random() * 5);
++
++                //System.out.println(letter);
++                // String [] location = {letter+String.valueOf(shipPozitionХ),letter+String.valueOf(shipPozitionХ+1),letter+String.valueOf(shipPozitionХ+2)};
++
++                for (int z = 0; z < 3; z++) {
++                    String letter = Character.toString(alphabet.charAt(shipPozitionY + z));
++                    alphaCells.add(letter + String.valueOf(shipPozitionX));
++
++                    //System.out.print(alphaCells);
++                    // deadZone.add(location[z]);
++                }
++            }
++
++            // проверка, входят ли координаты кораблика координаты, занятые другим корабликом
++            // если да, то определяем координаты заново
++            shipOutOfDeadZone=true;  // по умолчанию, координаты корабля уникальны
++
++            // цикл проверки уникальности координат
++
++            for (String z : alphaCells) {
++                if (impossibleZone.contains(z)) {
++                    shipOutOfDeadZone = false; // если координаты не уникальны
++                    alphaCells.clear(); // очиста массива если координаты не уникальны
++                    //System.out.println("zzz"+alphaCells);
++                    break;
++                }
++            }
++
++            // при уникальности координал корабля, добавляем их в массив
++            if (shipOutOfDeadZone) {
++
++                        /* поменяли проверку, пока убрано
++                        for (int z = 0; z < location.length; z++) {
++                            deadZone.add(location[z]);
++                        }*/
++
++                // необходимо определить в мертвую зону еще зону вокруг кораблика
++                // чтобы не было касания корабликами друг друга
++                int topX,topY, bottomX, bottomY; // переменные для определения границ мертвой зоны
++
++                // проверка выхода за верхнюю границу поля по хоординате Х
++                // не зависит от горизонтальности или вертикальности корабля
++                if (shipPozitionX == 0) {
++                    topX = 0; } else {
++                    topX = shipPozitionX -1;
++                }
++                // проверка выхода за левую границу поля по хоординате Y
++                // не зависит от горизонтальности или вертикальности корабля
++                if (shipPozitionY == 0) {
++                    topY = 0; } else {
++                    topY = shipPozitionY -1;
++                }
++
++                // определение координат второго угла мертвой зонв
++                if (randomNum==1) {
++                    bottomX = shipPozitionX + 3;
++                    bottomY = shipPozitionY + 1;
++                } else {
++                    bottomX = shipPozitionX + 1;
++                    bottomY = shipPozitionY + 3;
++                }
++
++                // проверка выхода за правую и нижнюю границы
++                if (bottomX > 6) {
++                    bottomX = 6;
++                }
++
++                if (bottomY > 6) {
++                    bottomY = 6;
++                }
++
++                //System.out.println ("   " +topX+" "+ topY+" "+ bottomX+" "+ bottomY);
++
++                // в список недопустимых координат, добавляем все координаты, которые становятся мертвой зоной для след. корабля.
++
++                for (int x = topX; x<=bottomX; x++) {
++                    for (int y = topY; y <= bottomY; y++) {
++                        // System.out.print(Character.toString(alphabet.charAt(y)) + String.valueOf(x));
++                        impossibleZone.add(Character.toString(alphabet.charAt(y)) + String.valueOf(x));
++                    }
++                   // System.out.println();
++                }
++
++
++
++
++
++
++
++                flag = false; // флаг для выхода из цикла while
++            }
++
++
++        } // конец цикла while
++
++        System.out.println(alphaCells);
++        return alphaCells;
++
++    }
++
++}
++
+Index: Test/src/Test1.java
+===================================================================
+diff --git a/Test/src/Test1.java b/Test/src/Test1.java
+new file mode 100644
+--- /dev/null	
++++ b/Test/src/Test1.java	
+@@ -0,0 +1,6 @@
++public class Test1 {
++
++    public static void main (String [] args) {
++        System.out.println("Test");
++    }
++}
+Index: SeaBattle_Final/src/MainFinal.java
+===================================================================
+diff --git a/SeaBattle_Final/src/MainFinal.java b/SeaBattle_Final/src/MainFinal.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/src/MainFinal.java	
+@@ -0,0 +1,7 @@
++public class MainFinal {
++   /*public static void main(String[] args) {
++       DotComBust game = new DotComBust ();  // Создание игрового объекта
++       game.setUpGame();  //Подготовка игры
++       game.startPlaying();  //Начало игры
++    }*/
++}
+Index: SeaBattle_Final/src/Test.java
+===================================================================
+diff --git a/SeaBattle_Final/src/Test.java b/SeaBattle_Final/src/Test.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Final/src/Test.java	
+@@ -0,0 +1,1 @@
++
+Index: SeaBattle_Gl_5_6/.idea/.gitignore
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/.idea/.gitignore b/SeaBattle_Gl_5_6/.idea/.gitignore
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/.idea/.gitignore	
+@@ -0,0 +1,2 @@
++# Default ignored files
++/workspace.xml
+\ No newline at end of file
+Index: SeaBattle_Gl_5_6/.idea/description.html
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/.idea/description.html b/SeaBattle_Gl_5_6/.idea/description.html
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/.idea/description.html	
+@@ -0,0 +1,1 @@
++<html>Simple <b>Java</b> application that includes a class with <code>main()</code> method</html>
+\ No newline at end of file
+Index: SeaBattle_Gl_5_6/.idea/encodings.xml
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/.idea/encodings.xml b/SeaBattle_Gl_5_6/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/.idea/encodings.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="PROJECT" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/P191_ArrayListMagnet.java
+===================================================================
+diff --git a/src/P191_ArrayListMagnet.java b/src/P191_ArrayListMagnet.java
+new file mode 100644
+--- /dev/null	
++++ b/src/P191_ArrayListMagnet.java	
+@@ -0,0 +1,41 @@
++//Задача из книги изучаем Java (Head First) стр.191
++
++import java.util.*;
++
++
++public class P191_ArrayListMagnet {
++
++    public static void printAl(ArrayList<String> al) {
++        for (String element : al) {
++            System.out.print(element + " ");
++        }
++            System.out.println(" ");
++    }
++
++    public static void main (String[] args) {
++    ArrayList<String> a = new ArrayList<String>();
++    a.add(0, "ноль");
++    a.add(1,"один");
++    a.add(2, "два");
++    a.add(3, "три");
++    printAl(a);
++    a.remove(2);
++    if (a.contains("три")) {
++        a.add("четыре");
++    }
++    printAl(a);
++    if (a.indexOf("четыре") != 4) {
++        a.add(4,"4.2");
++    }
++    printAl(a);
++
++    if (a.contains("два")) {
++        a.add ("2.2");
++    }
++    printAl(a);
++
++
++
++    }
++
++}
+Index: SeaBattle_Gl_5_6/.idea/misc.xml
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/.idea/misc.xml b/SeaBattle_Gl_5_6/.idea/misc.xml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/.idea/misc.xml	
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="EntryPointsManager">
++    <entry_points version="2.0" />
++  </component>
++  <component name="ProjectKey">
++    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/P224_TestBoat.java
+===================================================================
+diff --git a/src/P224_TestBoat.java b/src/P224_TestBoat.java
+new file mode 100644
+--- /dev/null	
++++ b/src/P224_TestBoat.java	
+@@ -0,0 +1,52 @@
++
++
++
++
++public class P224_TestBoat {
++
++    public static void main(String[] args) {
++        Boat b1 = new Boat();
++        Sailboat b2 = new Sailboat();
++        Rowboat b3 = new Rowboat();
++        b2.setLength(32);
++        b1.move();
++        b3.move();
++        b2.move();
++    }
++}
++
++class Boat {
++    private int length;
++
++    public void setLength (int len) {
++        length = len;
++    }
++
++    public int getLength() {
++        return length;
++    }
++
++    public void move () {
++        System.out.print("1");
++    }
++
++}
++
++    class Sailboat extends Boat {
++        public void move () {
++            System.out.print("2");
++        }
++
++    }
++
++    class Rowboat extends Boat {
++        public void rowTheBoat () {
++            System.out.print("3");
++        }
++    }
++
++
++
++
++
++
+Index: SeaBattle_Gl_5_6/.idea/modules.xml
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/.idea/modules.xml b/SeaBattle_Gl_5_6/.idea/modules.xml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/.idea/modules.xml	
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/SeaBattle_Gl_5_6.iml" filepath="$PROJECT_DIR$/SeaBattle_Gl_5_6.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: SeaBattle_Gl_5_6/.idea/project-template.xml
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/.idea/project-template.xml b/SeaBattle_Gl_5_6/.idea/project-template.xml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/.idea/project-template.xml	
+@@ -0,0 +1,3 @@
++<template>
++  <input-field default="com.company">IJ_BASE_PACKAGE</input-field>
++</template>
+\ No newline at end of file
+Index: SeaBattle_Gl_5_6/.idea/vcs.xml
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/.idea/vcs.xml b/SeaBattle_Gl_5_6/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/.idea/vcs.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: SeaBattle_Gl_5_6/SeaBattle_Gl_5_6.iml
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/SeaBattle_Gl_5_6.iml b/SeaBattle_Gl_5_6/SeaBattle_Gl_5_6.iml
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/SeaBattle_Gl_5_6.iml	
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
++
+Index: SeaBattle_Gl_5_6/src/DotCom.java
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/src/DotCom.java b/SeaBattle_Gl_5_6/src/DotCom.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/src/DotCom.java	
+@@ -0,0 +1,35 @@
++import java.util.ArrayList;
++
++public class DotCom {
++    private ArrayList<String> locationCells;
++    private String name;  // имя для последней версии игры
++
++    public void setLocationCells (ArrayList<String> locs) {
++        locationCells = locs;
++    }
++
++    // добавляем сеттер для имени в последнюю версию
++    /*public void setName (String n) {
++        name = n;
++    }*/
++
++    public String checkYourself (String userInput) {
++            String result = "Мимо";
++            int index = locationCells.indexOf(userInput);
++            if (index >= 0) {
++                locationCells.remove(index);
++
++
++                if (locationCells.isEmpty()) {
++                    result = "Потопил";
++                    //System.out.println("Потоплен " + name);  // Вывод для версии финал
++                } else {
++                    result = "Попал";
++                }
++            }
++
++        System.out.println(result); //Вывод результата для неполной версии
++        return result;
++
++    }
++}
+Index: SeaBattle_Gl_5_6/src/GameHelper.java
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/src/GameHelper.java b/SeaBattle_Gl_5_6/src/GameHelper.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/src/GameHelper.java	
+@@ -0,0 +1,19 @@
++import java.io.*;
++
++public class GameHelper {
++    public String getUserInput (String prompt) {
++        String inputLine = null;
++        System.out.println(prompt + " ");
++
++        try {
++            BufferedReader is = new BufferedReader(new InputStreamReader(System.in));
++            inputLine = is.readLine();
++            if (inputLine.length() == 0) return null;
++        } catch (IOException e) {
++            System.out.println("IOExeption: " + e);
++        }
++
++        return inputLine;
++    }
++
++}
+Index: SeaBattle_Gl_5_6/src/Main.java
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/src/Main.java b/SeaBattle_Gl_5_6/src/Main.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/src/Main.java	
+@@ -0,0 +1,72 @@
++
++import java.util.ArrayList;
++import java.util.Collections;
++
++
++public class Main {
++
++    public static void main(String[] args) {
++        int numOfGuess = 0;
++        GameHelper helper = new GameHelper();
++        //SimpleDotCom theDotCom = new SimpleDotCom();  //старый вариант
++
++
++        DotCom theDotCom = new DotCom();
++        int randomNum = (int) (Math.random()*5);
++
++        int [] locations = {randomNum, randomNum+1, randomNum+2};
++        // System.out.println(randomNum); // проверка что находится в массиве
++
++        String [] temp = new String[3];  //вспомогательный массив строк, как в книге не работает
++
++        for (int i=0; i<=2; i++) {
++            temp [i] = String.valueOf(locations[i]);  //перевод в тип String
++                                                        // для последующего перевода в ArrayList
++
++            // проверка
++            //  System.out.println(temp[i]);
++            //  System.out.println(String.valueOf(locations[i]));
++        }
++
++
++
++        // приведение массива стринг в формат ArrayList
++        // пример из книги просто так не работает почему-то
++        // пришлось масси int сначала привести к типу String
++        // а затем с помощью коллекций привести к типу ArrayList
++        // в книге коллекции пока не описаны, инет в помощь ))
++
++
++        // промежуточный массив listOfStrings для приведения типов
++        ArrayList<String> listOfStrings = new ArrayList();
++        Collections.addAll(listOfStrings,temp);
++
++/*      блок для проверки содержимого массивов
++        for (int z=0; z<temp.length; z++) {
++            System.out.println(temp[z]);
++        }
++
++        for (String str: listOfStrings) {
++            System.out.println(str);
++        }
++*/
++
++
++
++        
++        theDotCom.setLocationCells(listOfStrings);
++        //theDotCom.setLocationCells(locations);  //так не работает в новом варианте
++
++        boolean isAlive = true;
++
++        while (isAlive) {
++            String guess = helper.getUserInput("Введите число");
++            String result = theDotCom.checkYourself(guess);
++            numOfGuess++;
++            if (result.equals("Потопил")) {
++                isAlive = false;
++                System.out.println("Вам потребовалось " + numOfGuess + " попыток(и).");
++            }
++        }
++    }
++}
+Index: SeaBattle_Gl_5_6/src/SimpleDotCom.java
+===================================================================
+diff --git a/SeaBattle_Gl_5_6/src/SimpleDotCom.java b/SeaBattle_Gl_5_6/src/SimpleDotCom.java
+new file mode 100644
+--- /dev/null	
++++ b/SeaBattle_Gl_5_6/src/SimpleDotCom.java	
+@@ -0,0 +1,26 @@
++public class SimpleDotCom {
++    int [] locationCells;
++    int numOfHits = 0;
++
++    public void setLocationCells (int [] locs) {
++        locationCells = locs;
++    }
++    public String checkYourself (String stringGuess) {
++        int guess = Integer.parseInt(stringGuess);
++        String result = "Мимо";
++        for (int cell : locationCells) {
++            if (guess == cell) {
++                result = "Попал";
++                numOfHits++;
++                break;
++            }
++        }
++
++        if (numOfHits == locationCells.length) {
++            result = "Потопил";
++        }
++        System.out.println(result);
++        return result;
++
++    }
++}
+Index: Test/.idea/.gitignore
+===================================================================
+diff --git a/Test/.idea/.gitignore b/Test/.idea/.gitignore
+new file mode 100644
+--- /dev/null	
++++ b/Test/.idea/.gitignore	
+@@ -0,0 +1,2 @@
++# Default ignored files
++/workspace.xml
+\ No newline at end of file
+Index: Test/.idea/modules.xml
+===================================================================
+diff --git a/Test/.idea/modules.xml b/Test/.idea/modules.xml
+new file mode 100644
+--- /dev/null	
++++ b/Test/.idea/modules.xml	
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: src/P272_Of76.java
+===================================================================
+diff --git a/src/P272_Of76.java b/src/P272_Of76.java
+new file mode 100644
+--- /dev/null	
++++ b/src/P272_Of76.java	
+@@ -0,0 +1,62 @@
++
++
++    class Of76 extends Clowns {
++
++
++    public static void main(String[] args) {
++        Nose[] i = new Nose[3];
++        i[0] = new Acts();
++        i[1] = new Clowns();
++        i[2] = new Of76();
++        for (int x = 0; x < 3; x++) {
++            System.out.println(i[x].iMethod() + " " + i[x].getClass());
++            }
++        }
++    }
++
++    interface Nose {
++        public int iMethod ();
++    }
++
++    abstract class Picasso implements Nose {
++        public int iMethod() {
++
++            return 7;
++        }
++    }
++
++    class Clowns extends Picasso {}
++
++    class Acts extends Clowns {
++        public int iMethod() {
++            return 5;
++        }
++    }
++
++
++/*  Задание со страницы 272
++    //2
++    abstract interface Top{};
++    public class Tip implements Top{};
++
++    //3
++    abstract class Fee{};
++    abstract class Fi extends Fee{};
++
++    //4
++    public interface Foo{};
++    public class Bar implements Foo{};
++    public class Baz extends Bar{};
++
++    // 5
++
++    public interface Zeta{};
++    public interface Beta{};
++    public class Alpha implements Zeta{};
++    public class Delta extends Alpha implements Beta{};
++
++*/
++
++
++
++
+Index: src/P149_MultiFor.java
+===================================================================
+diff --git a/src/P149_MultiFor.java b/src/P149_MultiFor.java
+new file mode 100644
+--- /dev/null	
++++ b/src/P149_MultiFor.java	
+@@ -0,0 +1,15 @@
++//Задача из книги изучаем Java (Head First) стр.149
++
++public class P149_MultiFor {
++    public static void main (String [] args) {
++
++        for (int x=0; x<4; x++) {
++
++            for (int y = 4; y > 2; y--) {
++                System.out.println(x + " " + y);
++            }
++            if (x==1) {x++;};
++        }
++    }
++}
++
