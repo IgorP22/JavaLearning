@@ -22,6 +22,17 @@ public class Student1 {
     
 }
 
+// в решении дз не вписывали метод расчета в существующий класс, а создали новый
+
+class calculatingSrednegoArifm {
+     void sredneeArifm (Student1 s){
+        System.out.println("Средняя оценка студента "+s.Name + " " + s.Surname
+        + ": " +(s.AverageMathGrade + s.AverageEconomyGrade
+        + s.AverageLanguageGrade)/3);
+    }
+    
+}
+
 
 
 class StudentTest {
@@ -78,6 +89,11 @@ class StudentTest {
     sredneeArifm1(St1);
     sredneeArifm1(St2);
     sredneeArifm1(St3);
+    // так делали в решении
+    calculatingSrednegoArifm t = new calculatingSrednegoArifm();
+    t.sredneeArifm(St1);
+    t.sredneeArifm(St2);
+    t.sredneeArifm(St3);
     }
     
 
