@@ -8,6 +8,8 @@ import Homework.Lesson7.Employee;
  */
 public class EmployeeTest2 {
     public static void main (String [] args) {
+        
+        // из другого пакета доступен только публичный конструктор
         Homework.Lesson7.Employee emp1 = new Homework.Lesson7.Employee (12,"Petrov",35,315.5,"IT");
         
         // нет возможности вывести ЗП стандартным методом, только через метод showSalary
