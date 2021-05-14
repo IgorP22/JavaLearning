@@ -1,5 +1,5 @@
 
-package Homework.Lesson7;
+package Homework.Lesson07;
 
 /*
 Урок 7 Понятие «package». Модификаторы видимости (access modifiers).

@@ -1,5 +1,5 @@
 
-package Homework.Lesson4;
+package Homework.Lesson04;
 
 /*
  Домашнее задание.

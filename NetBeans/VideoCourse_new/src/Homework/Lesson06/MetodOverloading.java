@@ -1,5 +1,5 @@
 
-package Homework.Lesson6;
+package Homework.Lesson06;
 
 /*
 Урок 6  Перегрузка методов и конструкторов (overloading). Ключевое слово this

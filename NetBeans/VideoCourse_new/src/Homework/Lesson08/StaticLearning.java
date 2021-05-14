@@ -1,5 +1,5 @@
 
-package Homework.Lesson8;
+package Homework.Lesson08;
 
 /*
  Урок 8 Модификаторы «final» и «static». Понятие «константа».

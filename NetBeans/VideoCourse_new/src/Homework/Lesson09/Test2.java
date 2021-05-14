@@ -1,4 +1,4 @@
-package Homework.Lesson9;
+package Homework.Lesson09;
 
 /*
 Урок 9 Разновидности переменных и пределы их видимости.

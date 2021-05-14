@@ -1,5 +1,5 @@
 
-package Homework.Lesson5;
+package Homework.Lesson05;
 
 /*
 Урок 5 Создание объектов. Понятие «конструктор». Объявление и вызов методов.

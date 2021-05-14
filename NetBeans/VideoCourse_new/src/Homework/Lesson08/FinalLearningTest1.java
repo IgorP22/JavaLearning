@@ -1,5 +1,5 @@
 
-package Homework.Lesson8;
+package Homework.Lesson08;
 
 /*
 При вызове из другого файла в классе ничего не меняется

@@ -1,7 +1,7 @@
 
-package Homework.Lesson7_1;
+package Homework.Lesson07_1;
 
-import Homework.Lesson7.Employee;
+import Homework.Lesson07.Employee;
 
 /*
 Урок 7 Понятие «package». Модификаторы видимости (access modifiers).
@@ -10,7 +10,7 @@ public class EmployeeTest2 {
     public static void main (String [] args) {
         
         // из другого пакета доступен только публичный конструктор
-        Homework.Lesson7.Employee emp1 = new Homework.Lesson7.Employee (12,"Petrov",35,315.5,"IT");
+        Homework.Lesson07.Employee emp1 = new Homework.Lesson07.Employee (12,"Petrov",35,315.5,"IT");
         
         // нет возможности вывести ЗП стандартным методом, только через метод showSalary
         // стандартным способом можно вывести только публичную переменную
