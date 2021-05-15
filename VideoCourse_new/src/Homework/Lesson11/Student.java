@@ -1,5 +1,11 @@
 package Homework.Lesson11;
 
+/*
+Создан для урока 12.
+Урок 12 Конструкции «if» и «if   else». Ternary оператор.
+
+ */
+
 public class Student {
     public String name;
     public int course;

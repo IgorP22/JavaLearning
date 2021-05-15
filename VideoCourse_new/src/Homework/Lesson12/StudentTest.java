@@ -1,5 +1,9 @@
 package Homework.Lesson12;
 
+/*
+Урок 12 Конструкции «if» и «if   else». Ternary оператор.
+ */
+
 import Homework.Lesson11.Student;
 
 
