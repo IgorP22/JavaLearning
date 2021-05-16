@@ -28,7 +28,7 @@ public class Month {
                 System.out.println("В месяце №" + month + " 28 дней");
                 break;
             default:
-                System.out.println("Месяца с таким номером не существует");
+                System.out.println("Месяца с таким номером ("+month+") не существует");
         }
     }
 
