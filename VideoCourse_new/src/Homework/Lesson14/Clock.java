@@ -14,6 +14,8 @@ public class Clock {
             for (int minute = 0; minute < 60; minute++) {
                 INNER2:
                 for (int second = 0; second < 60; second++) {
+
+                    // просто для корректного вывода времени в формато 00:00:00
                     if (hour < 10) {
                         System.out.print("0" + hour + ":");
                     } else {
@@ -29,6 +31,8 @@ public class Clock {
                     } else {
                         System.out.println(second);
                     }
+
+
 
                     if (hour > 1 && minute!=0 &&  minute % 10 == 0) {
                         System.out.println("Выход из метода");
