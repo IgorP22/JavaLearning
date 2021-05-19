@@ -56,7 +56,7 @@ public class Clock2 {
                     second++;
                 }
 
-            } while (minute<60);
+            } while (minute<59);// ошибка, изменил в начале на -1 минуту, но забыл изменить 60 на 59
 
             hour++;
         }
