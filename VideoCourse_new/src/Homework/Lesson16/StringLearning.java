@@ -1,5 +1,9 @@
 package Homework.Lesson16;
 
+/*
+Урок 16 Всё о классе String.
+ */
+
 public class StringLearning {
 
 
