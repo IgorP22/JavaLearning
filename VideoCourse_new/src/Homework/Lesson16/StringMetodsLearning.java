@@ -80,15 +80,18 @@ public class StringMetodsLearning {
 
         // почему-то isBlank отсутствует......
         // ясно почему, метод добавлен начиная с 11 версии java, а у меня 8-я...
+        // выдает true при отсутствии значимых символов, пробелы, табуляции и т.п. игнорируются
         System.out.println(s5.isEmpty());
         System.out.println(s6.isEmpty());
-        //System.out.println(s1.isBlank("чего"));
+        System.out.println(s6.isBlank());
 
         //  в целом, аналог trim, но распознает больше символов типа пробел
         // опять же введен с 11й джавы, но рекомендовано использовать именно его
-        //System.out.println(s4.strip());
-        //System.out.println(s4.stripLeading());
-        //System.out.println(s4.stripTrailing());
+
+        //переустановлен jdk, все заработало
+        System.out.println(s4.strip());
+        System.out.println(s4.stripLeading());
+        System.out.println(s4.stripTrailing());
 
 
 
