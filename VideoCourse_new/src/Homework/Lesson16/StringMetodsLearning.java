@@ -19,6 +19,9 @@ public class StringMetodsLearning {
         String s4 = "    Тест        Тест    ";
         String s5 = "";
         String s6 = "    ";
+        String s7 = "    Тест    ";
+        String s8 = "    тест    ";
+        String s9 = new String("    Тест    ");
 
         // length определение длины String
         System.out.println(s1.length());
@@ -92,6 +95,17 @@ public class StringMetodsLearning {
         System.out.println(s4.strip());
         System.out.println(s4.stripLeading());
         System.out.println(s4.stripTrailing());
+
+
+        //со сравнением все понятно
+        // == true только если переменные ссылаются на один объект
+        // equals сравнивает содержимое объектов.....
+        System.out.println(s3.equals(s7));
+        System.out.println(s3==s7);
+        System.out.println(s3==s9);
+        System.out.println(s3.equals(s9));
+        System.out.println(s3.equals(s8));
+        System.out.println(s3.equalsIgnoreCase(s8));
 
 
 
