@@ -169,16 +169,16 @@ public class Home25 {
 
     public static void main(String[] args) {
         Animal a1 = new Mechenosec("Mech 1 ");
-        Animal a2 = new Lev("Lev 1");
+        Animal a2 = new Lev("Lev 1" );
         Animal a3 = new Pingvin("Ping 1 ");
-        Bird b1 = new Pingvin("Ping 2");
-        Fish f1 = new Mechenosec("Mech 2");
-        Mummal m1 = new Lev("Lev 2");
-        Mechenosec me1 = new Mechenosec("Mech 3");
-        Pingvin p1 = new Pingvin("Ping 3");
-        Lev l1 = new Lev("Lev 3");
-        Speakable sp1 = new Pingvin("Ping 4");
-        Speakable sp2 = new Lev("Lev 4");
+        Bird b1 = new Pingvin("Ping 2 ");
+        Fish f1 = new Mechenosec("Mech 2 ");
+        Mummal m1 = new Lev("Lev 2 ");
+        Mechenosec me1 = new Mechenosec("Mech 3 ");
+        Pingvin p1 = new Pingvin("Ping 3 ");
+        Lev l1 = new Lev("Lev 3 ");
+        Speakable sp1 = new Pingvin("Ping 4 ");
+        Speakable sp2 = new Lev("Lev 4 ");
 
 
 
