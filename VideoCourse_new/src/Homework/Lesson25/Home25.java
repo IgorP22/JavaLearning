@@ -104,7 +104,7 @@ class Lev extends Mummal {
 public class Home25 {
 
     public static void check(Object s) {
-        if (s instanceof Animal) {
+        /*if (s instanceof Animal) {
             System.out.println("Объект "+((Animal) s).name+ "это Animal");
             ((Animal) s).eat();
             ((Animal) s).sleep();
@@ -131,7 +131,7 @@ public class Home25 {
             ((Mummal) s).sleep();
             ((Mummal) s).speak();
             System.out.println();
-        }
+        }*/
         if (s instanceof Lev) {
             System.out.println("Объект "+((Lev) s).name+ "это Lev");
             ((Lev) s).eat();
@@ -155,14 +155,14 @@ public class Home25 {
             ((Pingvin) s).fly();
             ((Pingvin) s).speak();
             System.out.println();
-        }
+        }/*
         if (s instanceof Speakable){
             System.out.println("Объект "+((Animal) s).name+ "это Speakable");
             ((Speakable) s).speak();
             ((Animal) s).sleep();
             ((Animal) s).eat();
             System.out.println();
-        }
+        }*/
         System.out.println("---------------------");
     }
 
@@ -188,6 +188,11 @@ public class Home25 {
         Speakable [] s1 = new Speakable[] {sp1, sp2, l1, p1, m1, b1};
         Animal [] ar1 = new Animal[] {a1, a2, a3, b1, f1, m1, me1, p1, l1};
 
+        // мой вариант не хуже, не нужно писать код дважды
+        // топ Object применяется для унификации метода check
+        // и там в целом проверяется принадлежность ко всем классам
+        // что возможно и не нужно, закоментировал ненужные проверки.
+
         for (Object s: s1) {
             check(s);
         }
@@ -195,6 +200,65 @@ public class Home25 {
         for (Object s:ar1) {
             check(s);
         }
+
+        // В ответе к д/з чуть по другому проверяется только принадлежность к финализированным классам
+        /*
+
+        for (Animal a:ar1) {
+            if (a instanceof Pingvin) {
+                Pingvin p = (Pingvin) a;
+                p.eat();
+                p.fly();
+                p.sleep();
+                p.speak();
+            } else
+            if (a instanceof Lev) {
+                Lev p = (Lev) a;
+                p.eat();
+                p.sleep();
+                p.speak();
+                p.run();
+            } else
+            if (a instanceof Mechenosec) {
+                Mechenosec p = (Mechenosec) a;
+                p.eat();
+                p.sleep();
+                p.swim();
+            }
+
+            System.out.println("------------------");
+        }
+
+        for (Speakable a:s1) {
+            if (a instanceof Pingvin) {
+                Pingvin p = (Pingvin) a;
+                p.eat();
+                p.fly();
+                p.sleep();
+                p.speak();
+            } else
+            if (a instanceof Lev) {
+                Lev p = (Lev) a;
+                p.eat();
+                p.sleep();
+                p.speak();
+                p.run();
+            } else
+            if (a instanceof Mechenosec) {
+                Mechenosec p = (Mechenosec) a;
+                p.eat();
+                p.sleep();
+                p.swim();
+            }
+
+            System.out.println("------------------");
+        }*/
+
+
+
+
+
+
 
     }
 }
