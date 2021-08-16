@@ -204,11 +204,12 @@ public class Home25 {
         }
 
         // В ответе к д/з чуть по другому проверяется только принадлежность к финализированным классам
-        /*
 
-        for (Animal a:ar1) {
+
+        /*for (Animal a:ar1) {
             if (a instanceof Pingvin) {
                 Pingvin p = (Pingvin) a;
+                System.out.println(p.name);
                 p.eat();
                 p.fly();
                 p.sleep();
@@ -216,6 +217,7 @@ public class Home25 {
             } else
             if (a instanceof Lev) {
                 Lev p = (Lev) a;
+                System.out.println(p.name);
                 p.eat();
                 p.sleep();
                 p.speak();
@@ -223,6 +225,7 @@ public class Home25 {
             } else
             if (a instanceof Mechenosec) {
                 Mechenosec p = (Mechenosec) a;
+                System.out.println(p.name);
                 p.eat();
                 p.sleep();
                 p.swim();
@@ -234,6 +237,7 @@ public class Home25 {
         for (Speakable a:s1) {
             if (a instanceof Pingvin) {
                 Pingvin p = (Pingvin) a;
+                System.out.println(p.name);
                 p.eat();
                 p.fly();
                 p.sleep();
@@ -241,6 +245,7 @@ public class Home25 {
             } else
             if (a instanceof Lev) {
                 Lev p = (Lev) a;
+                System.out.println(p.name);
                 p.eat();
                 p.sleep();
                 p.speak();
@@ -248,6 +253,7 @@ public class Home25 {
             } else
             if (a instanceof Mechenosec) {
                 Mechenosec p = (Mechenosec) a;
+                System.out.println(p.name);
                 p.eat();
                 p.sleep();
                 p.swim();
